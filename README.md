@@ -1,7 +1,7 @@
-# <span style="color:darkblue; font-weight:bold;">Generation SG Junior Data Engineer Programme</span><br><span style="color:darkblue; font-weight:regular;">Final Project: Brazilian E-commerce Public Dataset by Olist</span><br>
+# <span style="color:darkblue; font-weight:bold;">Generation SG Junior Data Engineer Programme</span><br/><span style="color:darkblue; font-weight:regular;">Final Project: Brazilian E-commerce Public Dataset by Olist</span><br/>
 #### By Team C.H.Y.E.F - Chee How | Hui Shan | Pin Pin, Yvonne | Eunica | Yiping, Fred
 ***
-<br>
+<br/>
 
 <a id="readme-top"></a>
 <!-- TABLE OF CONTENTS -->
@@ -52,84 +52,84 @@
     </li>
   </ol>
 </details>
-<br><br>
+<br/><br/>
 
 <!-- ABOUT THE PROJECT -->
 <a id="about-the-project"></a>
 <details>
   <summary><h3><b>About The Project</b></h3></summary>
-  <img src="https://raw.githubusercontent.com/YvonneLipLim/Images/main/Olist.png" alt="Olist Store" style="display: block; margin: 0 auto" /><br><br>
+  <img src="https://raw.githubusercontent.com/YvonneLipLim/Images/main/Olist.png" alt="Olist Store" style="display: block; margin: 0 auto" /><br/><br/>
 
-**Unlocking Growth in Brazil's Digital Marketplace: The Olist Story**<br>In the bustling heart of Brazil's e-commerce landscape, Olist Store stands as a testament to the country's digital transformation. As Brazil's leading marketplace department store, Olist has connected thousands of merchants with millions of customers, facilitating over 100,000 transactions between 2016 and 2018. Behind each order lies a story – a customer's journey, a merchant's reputation, and Olist's promise to deliver excellence.<br>
+**Unlocking Growth in Brazil's Digital Marketplace: The Olist Story**<br/>In the bustling heart of Brazil's e-commerce landscape, Olist Store stands as a testament to the country's digital transformation. As Brazil's leading marketplace department store, Olist has connected thousands of merchants with millions of customers, facilitating over 100,000 transactions between 2016 and 2018. Behind each order lies a story – a customer's journey, a merchant's reputation, and Olist's promise to deliver excellence.<br/>
 
-**The Digital Goldmine**<br>Imagine a vast digital archive containing the pulse of Brazil's e-commerce: every order, every payment, every customer interaction meticulously recorded. This isn't just data – it's the collective experience of countless Brazilian shoppers, from the sunny beaches of Rio to the bustling streets of São Paulo. The dataset captures:
+**The Digital Goldmine**<br/>Imagine a vast digital archive containing the pulse of Brazil's e-commerce: every order, every payment, every customer interaction meticulously recorded. This isn't just data – it's the collective experience of countless Brazilian shoppers, from the sunny beaches of Rio to the bustling streets of São Paulo. The dataset captures:
 - The rhythm of customer purchasing patterns
 - The flow of payments through Brazil's digital economy
 - The intricate dance of logistics across South America's largest country
 - The honest voices of customers sharing their experiences
 - The geographic tapestry of Brazil's diverse marketplace
-<br>
+<br/>
 
-**The Hidden Opportunity**<br>Yet beneath this mountain of data lies untapped potential. While Olist has successfully facilitated thousands of transactions, the true value isn't in what these numbers show – it's in what they hide. Every delayed delivery tells a story about optimization opportunities. Every customer review whispers insights about service improvement. Every abandoned cart holds clues to untapped revenue.<br>
+**The Hidden Opportunity**<br/>Yet beneath this mountain of data lies untapped potential. While Olist has successfully facilitated thousands of transactions, the true value isn't in what these numbers show – it's in what they hide. Every delayed delivery tells a story about optimization opportunities. Every customer review whispers insights about service improvement. Every abandoned cart holds clues to untapped revenue.<br/>
 
-**The Challenge Before Us**<br>The task at hand is exciting and daunting: transforming this rich dataset into actionable intelligence that can revolutionize Olist's marketplace performance. We must:
+**The Challenge Before Us**<br/>The task at hand is exciting and daunting: transforming this rich dataset into actionable intelligence that can revolutionize Olist's marketplace performance. We must:
 1. Decode patterns in customer behaviour that could unlock new market segments
 2. Uncover inefficiencies in fulfilment that, if addressed, could delight customers
 3. Identify the subtle factors that turn satisfied customers into loyal advocates
-4. Map the journey from browse to buy, understanding where customers hesitate and why<br>
+4. Map the journey from browse to buy, understanding where customers hesitate and why<br/>
 
-This isn't just about analyzing numbers – it's about understanding the stories of millions of Brazilians who shop online, the merchants who serve them, and the platform that brings them together. The insights we uncover could reshape the future of e-commerce in Latin America's largest economy.<br>
+This isn't just about analyzing numbers – it's about understanding the stories of millions of Brazilians who shop online, the merchants who serve them, and the platform that brings them together. The insights we uncover could reshape the future of e-commerce in Latin America's largest economy.<br/>
 
-The question isn't just "What does the data tell us?" but rather "How can we use these insights to create a marketplace that serves Brazil better?"<br>
+The question isn't just "What does the data tell us?" but rather "How can we use these insights to create a marketplace that serves Brazil better?"<br/>
 
-**Data Source:** [Kaggle - Brazilian E-commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)<br>
+**Data Source:** [Kaggle - Brazilian E-commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)<br/>
 
 </details>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-<br><br>
+<br/><br/>
 
 <!-- PROJECT OBJECTIVES -->
 <a id="project-objectives"></a>
 <details>
   <summary><h3><b>Project Objectives</b></h3></summary>
 
-**The Vision: From Raw Data to Business Gold: A Digital Transformation Journey**<br>Imagine walking into a room filled with scattered pieces of a puzzle. Each piece represents a fragment of your business's story – customer interactions, operational metrics, market performance, and countless other data points. Right now, these pieces lie dormant, their true value locked away. But we're about to change that.<br>
+**The Vision: From Raw Data to Business Gold: A Digital Transformation Journey**<br/>Imagine walking into a room filled with scattered pieces of a puzzle. Each piece represents a fragment of your business's story – customer interactions, operational metrics, market performance, and countless other data points. Right now, these pieces lie dormant, their true value locked away. But we're about to change that.<br/>
 
-**The Challenge**<br>In today's data-driven world, having information isn't enough. The real power lies in how we collect, connect, and interpret it. Our mission is to build a robust digital pipeline that will transform raw data into actionable insights, enabling leaders to make decisions with confidence and precision.<br>
+**The Challenge**<br/>In today's data-driven world, having information isn't enough. The real power lies in how we collect, connect, and interpret it. Our mission is to build a robust digital pipeline that will transform raw data into actionable insights, enabling leaders to make decisions with confidence and precision.<br/>
 
-**The Journey**<br>
-**Phase 1: Building the Foundation**<br>Picture constructing a digital highway where data flows seamlessly from various sources into a centralized, intelligent system. We're not just storing data – we're creating a living, breathing ecosystem in our PostgreSQL/SQL Server database. Every table, every relationship, every data point is carefully architected to tell a story.<br>
+**The Journey**<br/>
+**Phase 1: Building the Foundation**<br/>Picture constructing a digital highway where data flows seamlessly from various sources into a centralized, intelligent system. We're not just storing data – we're creating a living, breathing ecosystem in our PostgreSQL/SQL Server database. Every table, every relationship, every data point is carefully architected to tell a story.<br/>
 
-**Phase 2: Quality and Discovery**<br>Like a master jeweler examining precious stones, we'll scrutinize every piece of data:
+**Phase 2: Quality and Discovery**<br/>Like a master jeweler examining precious stones, we'll scrutinize every piece of data:
 - Uncovering hidden patterns in customer behavior
 - Identifying anomalies that could signal opportunities or risks
 - Cleaning and enriching data to ensure it's trustworthy and meaningful
 - Connecting seemingly unrelated information to reveal deeper insights
-<br>
+<br/>
 
-**Phase 3: Bringing Data to Life**<br>This is where numbers transform into narratives. Through an intuitive Power BI dashboard:
+**Phase 3: Bringing Data to Life**<br/>This is where numbers transform into narratives. Through an intuitive Power BI dashboard:
 - Complex data patterns become clear visual stories
 - Real-time insights emerge at the click of a button
 - Business leaders can explore data landscapes with ease
 - Teams across departments gain a shared view of truth
-<br>
+<br/>
 
-**Phase 4: Ensuring Excellence**<br>Trust is earned through rigorous validation. Every insight, every calculation, every visualization will be meticulously tested. We'll compare dashboard figures against database queries, ensuring that what you see isn't just beautiful – it's absolutely accurate.<br>
+**Phase 4: Ensuring Excellence**<br/>Trust is earned through rigorous validation. Every insight, every calculation, every visualization will be meticulously tested. We'll compare dashboard figures against database queries, ensuring that what you see isn't just beautiful – it's absolutely accurate.<br/>
 
-**Phase 5: Unleashing Strategic Power**<br>The culmination of our journey isn't just a technical achievement – it's a business transformation. Armed with deep insights, we'll:
+**Phase 5: Unleashing Strategic Power**<br/>The culmination of our journey isn't just a technical achievement – it's a business transformation. Armed with deep insights, we'll:
 - Identify untapped market opportunities
 - Optimize operational efficiency
 - Enhance customer experiences
 - Drive data-informed strategic decisions
-<br>
+<br/>
 
-**The Impact**<br>When complete, this isn't just a data project – it's a business revolution. Decision-makers will move from gut feelings to data-driven certainty. Teams will shift from reactive to proactive. And your organization will gain a competitive edge through deeper understanding and faster response to market dynamics.<br>
+**The Impact**<br/>When complete, this isn't just a data project – it's a business revolution. Decision-makers will move from gut feelings to data-driven certainty. Teams will shift from reactive to proactive. And your organization will gain a competitive edge through deeper understanding and faster response to market dynamics.<br/>
 
-**Looking Ahead**<br>This transformation journey marks the beginning of a new era for your business – one where every decision is informed by insights, every strategy is backed by data, and every team is empowered with knowledge. The future isn't just about having data; it's about mastering it.
+**Looking Ahead**<br/>This transformation journey marks the beginning of a new era for your business – one where every decision is informed by insights, every strategy is backed by data, and every team is empowered with knowledge. The future isn't just about having data; it's about mastering it.
 
 </details>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-<br><br>
+<br/><br/>
 
 <!-- PROJECT DELIVERABLES -->
 <a id="project-deliverables"></a>
@@ -141,7 +141,7 @@ The question isn't just "What does the data tell us?" but rather "How can we use
   <li>Source code</li>
 </details>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-<br>
+<br/>
 
 <!-- GETTING STARTED -->
 <a id="getting-started"></a>
@@ -151,7 +151,7 @@ The question isn't just "What does the data tell us?" but rather "How can we use
 
 ### <span style="color:darkblue; font-weight:bold;">Prerequisites</span>
 
-#### **Active Primary (Azure)**<br>
+#### **Active Primary (Azure)**<br/>
 **Azure Managed Services**
   ```sh
   ├── 01. Azure Subscription
@@ -165,64 +165,64 @@ The question isn't just "What does the data tell us?" but rather "How can we use
   ├── 09. Azure Synapse Analytics
   ├── 10. Power BI
   ```
-<br>
+<br/>
 
-**1. Azure Subscription**<br>To access to Azure, you'ii need an Azure subscription. If you don't already have a subscription, create a [free account](https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account?icid=azurefreeaccount&WT.mc_id=A261C142F) before you begin.<br>
+**1. Azure Subscription**<br/>To access to Azure, you'ii need an Azure subscription. If you don't already have a subscription, create a [free account](https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account?icid=azurefreeaccount&WT.mc_id=A261C142F) before you begin.<br/>
 
-<img src="https://raw.githubusercontent.com/YvonneLipLim/Images/main/Azure_Subscription_Creation.png" alt="Azure Subscription" style="display: block; margin: 0 auto" /><br>
-<img src="https://raw.githubusercontent.com/YvonneLipLim/Images/main/Olist_Azure_Subscription_20250115.png" alt="Azure Subscription Overview" style="display: block; margin: 0 auto" /><br>
+<img src="https://raw.githubusercontent.com/YvonneLipLim/Images/main/Azure_Subscription_Creation.png" alt="Azure Subscription" style="display: block; margin: 0 auto" /><br/>
+<img src="https://raw.githubusercontent.com/YvonneLipLim/Images/main/Olist_Azure_Subscription_20250115.png" alt="Azure Subscription Overview" style="display: block; margin: 0 auto" /><br/>
 
-**2. Kaggle API Credentials**<br>A **Kaggle API token** allows you to access and interact with Kaggle's features programmatically throught their public API, enablinh you to perform actions like downloading datasets, submitting competition entries, or managing notebooks directly from your code.<br>
+**2. Kaggle API Credentials**<br/>A **Kaggle API token** allows you to access and interact with Kaggle's features programmatically throught their public API, enablinh you to perform actions like downloading datasets, submitting competition entries, or managing notebooks directly from your code.<br/>
 
-> **How to obtain a Kaggle API Key?**<br>
+> **How to obtain a Kaggle API Key?**<br/>
 > Go to the `Account` tab of your user profile and select `Create New Token`. This will trigger the download of the `kaggle.json`, a file containing your API credentials.
 > 
 
-**3. Azure Command-Line Interface (CLI)**<br>The [Azure Command-Line Interface (CLI)](https://learn.microsoft.com/en-us/cli/azure/get-started-with-azure-cli) is a tool that allows users to interact with Azure services and resources using a terminal. It's a cross-platform tool that can be used to create, manage, and deploy resources like databases, virtual machines, and storage accounts.<br>
+**3. Azure Command-Line Interface (CLI)**<br/>The [Azure Command-Line Interface (CLI)](https://learn.microsoft.com/en-us/cli/azure/get-started-with-azure-cli) is a tool that allows users to interact with Azure services and resources using a terminal. It's a cross-platform tool that can be used to create, manage, and deploy resources like databases, virtual machines, and storage accounts.<br/>
 
-**4. Azure Storage / Container(s)**<br>Set up a storage account to store downloaded datasets.<br>An Azure storage account is a container that bands a set of Azure Storage services together, click on [Microsoft Learn](https://learn.microsoft.com/en-us/azure/storage/common/storage-account-create?tabs=azure-portal).<br>After setting up a storage account, you will need to create a [storage container](https://learn.microsoft.com/en-us/azure/storage/blobs/blob-containers-portal#create-a-container) for storing the datasets.<br>
+**4. Azure Storage / Container(s)**<br/>Set up a storage account to store downloaded datasets.<br/>An Azure storage account is a container that bands a set of Azure Storage services together, click on [Microsoft Learn](https://learn.microsoft.com/en-us/azure/storage/common/storage-account-create?tabs=azure-portal).<br/>After setting up a storage account, you will need to create a [storage container](https://learn.microsoft.com/en-us/azure/storage/blobs/blob-containers-portal#create-a-container) for storing the datasets.<br/>
 
-<img src="https://raw.githubusercontent.com/YvonneLipLim/Images/main/Azure_Storage_Container.png" alt="Storage Container" style="display: block; margin: 0 auto" /><br>
+<img src="https://raw.githubusercontent.com/YvonneLipLim/Images/main/Azure_Storage_Container.png" alt="Storage Container" style="display: block; margin: 0 auto" /><br/>
 
-**5. Azure Function**<br>Set up an [Azure Function App](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-function-app-portal?pivots=programming-language-csharp#create-a-function-app) to create a serverless environment for running custom code on-demand for data processing tasks. This eliminates infrastructure management and is ideal for small, event-driven operations, allowing for flexible scaling and cost-effective data manipulation.<br>
+**5. Azure Function**<br/>Set up an [Azure Function App](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-function-app-portal?pivots=programming-language-csharp#create-a-function-app) to create a serverless environment for running custom code on-demand for data processing tasks. This eliminates infrastructure management and is ideal for small, event-driven operations, allowing for flexible scaling and cost-effective data manipulation.<br/>
 
-<img src="https://raw.githubusercontent.com/YvonneLipLim/Images/main/Azure_Function_1.png" alt="Azure Function 1" style="display: block; margin: 0 auto" /><br>
-<img src="https://raw.githubusercontent.com/YvonneLipLim/Images/main/Azure_Function_2.png" alt="Azure Function 2" style="display: block; margin: 0 auto" /><br>
+<img src="https://raw.githubusercontent.com/YvonneLipLim/Images/main/Azure_Function_1.png" alt="Azure Function 1" style="display: block; margin: 0 auto" /><br/>
+<img src="https://raw.githubusercontent.com/YvonneLipLim/Images/main/Azure_Function_2.png" alt="Azure Function 2" style="display: block; margin: 0 auto" /><br/>
 
-**6. Azure Data Factory**<br>Set up an [Azure Data Factory (ADF)](https://learn.microsoft.com/en-us/azure/data-factory/quickstart-create-data-factory) account to manage data pipelines that extract, transform, and load data from diverse sources including on-premises, cloud, SaaS systems. This user-friendly platform simplifies data integration at scale without complex infrastructure, offering extensive connectors and serverless execution while requiring minimal code required.<br>
+**6. Azure Data Factory**<br/>Set up an [Azure Data Factory (ADF)](https://learn.microsoft.com/en-us/azure/data-factory/quickstart-create-data-factory) account to manage data pipelines that extract, transform, and load data from diverse sources including on-premises, cloud, SaaS systems. This user-friendly platform simplifies data integration at scale without complex infrastructure, offering extensive connectors and serverless execution while requiring minimal code required.<br/>
 
-<img src="https://raw.githubusercontent.com/YvonneLipLim/Images/main/ADF_Creation.png" alt="Azure Data Factory Creation" style="display: block; margin: 0 auto" /><br>
+<img src="https://raw.githubusercontent.com/YvonneLipLim/Images/main/ADF_Creation.png" alt="Azure Data Factory Creation" style="display: block; margin: 0 auto" /><br/>
 
-**7. Azure Databricks**<br>Set up [Azure Databricks](https://learn.microsoft.com/en-us/azure/databricks/getting-started/) workspace provides a unified platform in Azure for data processing, transformation, and analytics. It streamlines data pipeline development with features like Delta Lake and Apache Spark, enabling efficient handling of large-scale data operations.<br>
+**7. Azure Databricks**<br/>Set up [Azure Databricks](https://learn.microsoft.com/en-us/azure/databricks/getting-started/) workspace provides a unified platform in Azure for data processing, transformation, and analytics. It streamlines data pipeline development with features like Delta Lake and Apache Spark, enabling efficient handling of large-scale data operations.<br/>
 
-<img src="https://raw.githubusercontent.com/YvonneLipLim/Images/main/Databricks_Account_1.png" alt="Databricks Account" style="display: block; margin: 0 auto" /><br>
+<img src="https://raw.githubusercontent.com/YvonneLipLim/Images/main/Databricks_Account_1.png" alt="Databricks Account" style="display: block; margin: 0 auto" /><br/>
 
-**8. Azure SQL Database**<br>Set up [Azure SQL Database](https://learn.microsoft.com/en-us/azure/azure-sql/database/single-database-create-quickstart?view=azuresql&tabs=azure-portal) which is a managed cloud database (PaaS) cloud-based Microsoft SQL Servers, provided as parts of Microsoft Azure services. The service handles database management functions for cloud based Microsoft SQL Servers including upgrading, patching, backups, and monitoring without user involvement.<br>
+**8. Azure SQL Database**<br/>Set up [Azure SQL Database](https://learn.microsoft.com/en-us/azure/azure-sql/database/single-database-create-quickstart?view=azuresql&tabs=azure-portal) which is a managed cloud database (PaaS) cloud-based Microsoft SQL Servers, provided as parts of Microsoft Azure services. The service handles database management functions for cloud based Microsoft SQL Servers including upgrading, patching, backups, and monitoring without user involvement.<br/>
 
-<img src="https://raw.githubusercontent.com/YvonneLipLim/Images/main/Create_SQL_Database.png" alt="SQL Database" style="display: block; margin: 0 auto" /><br>
+<img src="https://raw.githubusercontent.com/YvonneLipLim/Images/main/Create_SQL_Database.png" alt="SQL Database" style="display: block; margin: 0 auto" /><br/>
 
-**9. Azure Synapse Analytics**<br>Set up [Azure Synapse Analytics](https://learn.microsoft.com/en-us/azure/synapse-analytics/quickstart-create-workspace), a unified cloud-based analytics platform from Microsoft that combines data warehousing, big data processing, and data integration capabilities, allowing users to query and analyze large datasets from various sources using a single interface, including both relational and non-relational data.<br>
+**9. Azure Synapse Analytics**<br/>Set up [Azure Synapse Analytics](https://learn.microsoft.com/en-us/azure/synapse-analytics/quickstart-create-workspace), a unified cloud-based analytics platform from Microsoft that combines data warehousing, big data processing, and data integration capabilities, allowing users to query and analyze large datasets from various sources using a single interface, including both relational and non-relational data.<br/>
 
-<img src="https://raw.githubusercontent.com/YvonneLipLim/Images/main/Create_Synapse_Workspace.png" alt="Synapse Workspace" style="display: block; margin: 0 auto" /><br>
+<img src="https://raw.githubusercontent.com/YvonneLipLim/Images/main/Create_Synapse_Workspace.png" alt="Synapse Workspace" style="display: block; margin: 0 auto" /><br/>
 
-**10. Power BI Desktop**<br>Set up  [Power BI Desktop](https://learn.microsoft.com/en-us/power-bi/fundamentals/desktop-getting-started) which is a collection of software services, apps, and connectors that work together to turn your unrelated sources of data into coherent, visually immersive, and interactive insights. Power BI lets you easily connect to your data sources, visualize and discover what's important, and share that with anyone or everyone you want.<br>
+**10. Power BI Desktop**<br/>Set up  [Power BI Desktop](https://learn.microsoft.com/en-us/power-bi/fundamentals/desktop-getting-started) which is a collection of software services, apps, and connectors that work together to turn your unrelated sources of data into coherent, visually immersive, and interactive insights. Power BI lets you easily connect to your data sources, visualize and discover what's important, and share that with anyone or everyone you want.<br/>
 
-<img src="https://raw.githubusercontent.com/YvonneLipLim/Images/main/Power_BI_OlistDB_Connection_1.png" alt="Power BI 1" style="display: block; margin: 0 auto" /><br>
-<img src="https://raw.githubusercontent.com/YvonneLipLim/Images/main/Power_BI_OlistDB_Connection_2.png" alt="Power BI 2" style="display: block; margin: 0 auto" /><br>
-<img src="https://raw.githubusercontent.com/YvonneLipLim/Images/main/Power_BI_OlistDB_Connection_3.png" alt="Power BI 3" style="display: block; margin: 0 auto" /><br>
-<img src="https://raw.githubusercontent.com/YvonneLipLim/Images/main/Power_BI_OlistDB_Connection_4.png" alt="Power BI 4" style="display: block; margin: 0 auto" /><br>
+<img src="https://raw.githubusercontent.com/YvonneLipLim/Images/main/Power_BI_OlistDB_Connection_1.png" alt="Power BI 1" style="display: block; margin: 0 auto" /><br/>
+<img src="https://raw.githubusercontent.com/YvonneLipLim/Images/main/Power_BI_OlistDB_Connection_2.png" alt="Power BI 2" style="display: block; margin: 0 auto" /><br/>
+<img src="https://raw.githubusercontent.com/YvonneLipLim/Images/main/Power_BI_OlistDB_Connection_3.png" alt="Power BI 3" style="display: block; margin: 0 auto" /><br/>
+<img src="https://raw.githubusercontent.com/YvonneLipLim/Images/main/Power_BI_OlistDB_Connection_4.png" alt="Power BI 4" style="display: block; margin: 0 auto" /><br/>
 
-**Azure Account Structure**<br>Organizing resources effectively in Microsoft Azure is essential for managing a cloud environment. Azure uses a structured hierarchy that helps businesses and individuals manage resources more efficiently, control costs, and ensure proper governance. In this guide, we break down the Azure resource hierarchy in simple terms to give you a clear understanding of how to use it.
+**Azure Account Structure**<br/>Organizing resources effectively in Microsoft Azure is essential for managing a cloud environment. Azure uses a structured hierarchy that helps businesses and individuals manage resources more efficiently, control costs, and ensure proper governance. In this guide, we break down the Azure resource hierarchy in simple terms to give you a clear understanding of how to use it.
   ```sh
   ├── 01. Account
   ├── 02. Subscription 
   ├── 03. Resource Group
   ├── 04. Resources
   ```
-<br>
-<img src="https://raw.githubusercontent.com/YvonneLipLim/Images/main/OLIST_Azure_Account_Structure.png" alt="Olist Store" style="display: block; margin: 0 auto" /><br><br>
+<br/>
+<img src="https://raw.githubusercontent.com/YvonneLipLim/Images/main/OLIST_Azure_Account_Structure.png" alt="Olist Store" style="display: block; margin: 0 auto" /><br/><br/>
 
-#### **Passive Backup (AWS)**<br>
+#### **Passive Backup (AWS)**<br/>
 **AWS Managed Services**
 
 **[Fred to update on prerequsite for AWS]**
@@ -263,15 +263,15 @@ AWS management console, easy to toggle and ability to set bookmark for often use
 ![image-13.png](images/3.png)
 
 
-<br>
+<br/>
 
 <a id="installation"></a>
 ### <span style="color:darkblue; font-weight:bold;">Installation</span>
 
-#### **Active Primary (Azure)**<br>
-**Azure Managed Services**<br>
+#### **Active Primary (Azure)**<br/>
+**Azure Managed Services**<br/>
 
-**1. Kaggle CLI**<br>The **Kaggle CLI** tool provive easy ways to interact with Datasets on Kaggle. These commands available can make searching for and downloading Kaggle Datasets a seamless part of data workflow.
+**1. Kaggle CLI**<br/>The **Kaggle CLI** tool provive easy ways to interact with Datasets on Kaggle. These commands available can make searching for and downloading Kaggle Datasets a seamless part of data workflow.
 1. Run Installation Command on a new Terminal:
     ```sh
     pip install kaggle
@@ -286,11 +286,11 @@ AWS management console, easy to toggle and ability to set bookmark for often use
     ```sh
     kaggle competitions list
     ```
-<br>
+<br/>
 
-**2. Azure CLI**<br>The **Azure CLI** can be installed on Windows, macOS and Linux distributions: 
+**2. Azure CLI**<br/>The **Azure CLI** can be installed on Windows, macOS and Linux distributions: 
 * On Linus and macOS, most commonly use package managers like Homebrew or apt-get to install the Azure CLI. 
-* While on windows, you can install the Azure CLI using a Microsoft Installer (MSI) Package<br><br>
+* While on windows, you can install the Azure CLI using a Microsoft Installer (MSI) Package<br/><br/>
 
 How to install Azure Commmand-Line Interface (CLI)?
 1. Run Installation Command on a new Terminal:
@@ -300,10 +300,10 @@ How to install Azure Commmand-Line Interface (CLI)?
     Windows (PowerShell): iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/Azure/azure-cli/latest/azure/install.ps1'))
     ```
 2. After installation is completed, you can verify it by running `az --version` to check version.
-3. Login to Azure by running `az login` in your terminal to sign in with your Azure account.<br>
-For more information on Azure CLI services, click on [Microsoft Learn](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli).<br><br>
+3. Login to Azure by running `az login` in your terminal to sign in with your Azure account.<br/>
+For more information on Azure CLI services, click on [Microsoft Learn](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli).<br/><br/>
 
-**3. Azure MyFunction App**<br>The [Azure Functions Core Tools](https://learn.microsoft.com/en-us/azure/azure-functions/functions-run-local?tabs=macos%2Cisolated-process%2Cnode-v4%2Cpython-v2%2Chttp-trigger%2Ccontainer-apps&pivots=programming-language-csharp) can be installed on Windows, macOS and Linux distributions.<br>
+**3. Azure MyFunction App**<br/>The [Azure Functions Core Tools](https://learn.microsoft.com/en-us/azure/azure-functions/functions-run-local?tabs=macos%2Cisolated-process%2Cnode-v4%2Cpython-v2%2Chttp-trigger%2Ccontainer-apps&pivots=programming-language-csharp) can be installed on Windows, macOS and Linux distributions.<br/>
 
 How to install Azure Commmand-Line Interface (CLI)?
 1. Run Installation Command on a new Terminal for macOS: 
@@ -355,16 +355,16 @@ How to install Azure Commmand-Line Interface (CLI)?
    ```sh
    npm install -g azurite
    ```
-<br>
+<br/>
 
-#### **Passive Backup (AWS)**<br>
-**AWS Managed Services**<br>
+#### **Passive Backup (AWS)**<br/>
+**AWS Managed Services**<br/>
 
 **[Fred to update]**
 
 </details>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-<br><br>
+<br/><br/>
 
 <!-- DATA ARCHITECTURE -->
 <a id="data-architecture"></a>
@@ -372,50 +372,50 @@ How to install Azure Commmand-Line Interface (CLI)?
   <summary><h3><b>Data Architecture</b></h3></summary>
   <p>
   Building a data pipeline with Azure as the primary environment and AWS as a secondary environment offers several strategic business adventages. This approach leverages the strengths of both cloud platforms while providing redundancy and flexiblity. Here's an explanation of the business rationale behind this decision:
-  </p><br>
+  </p><br/>
 
-**Azure (Active Primary)**<br>It allows to efficiently store, process, and analyze large volumes of e-commerce data from Olist platform, enabling them to extract valuable insights for better decision-making, optimize operations, predict trends, and ultimately improve customer experience by leveraging the scalability, flexibility, and powerful analytics tools offered by Azure services like Azure Data Lake, Azure Data Factory, and Azure Synapse Analytics, particularly when dealing with the vast and diverse data sets generated by an online marketplace.<br>
+**Azure (Active Primary)**<br/>It allows to efficiently store, process, and analyze large volumes of e-commerce data from Olist platform, enabling them to extract valuable insights for better decision-making, optimize operations, predict trends, and ultimately improve customer experience by leveraging the scalability, flexibility, and powerful analytics tools offered by Azure services like Azure Data Lake, Azure Data Factory, and Azure Synapse Analytics, particularly when dealing with the vast and diverse data sets generated by an online marketplace.<br/>
 
-<img src="https://raw.githubusercontent.com/YvonneLipLim/Images/main/Olist_Parallel_Architecture.png" alt="Olist Azure Architecture" style="display: block; margin: 0 auto" /><br><br>
+<img src="https://raw.githubusercontent.com/YvonneLipLim/Images/main/Olist_Parallel_Architecture.png" alt="Olist Azure Architecture" style="display: block; margin: 0 auto" /><br/><br/>
 
-**Key reasons**<br>
-- **Large Data Volumes:**<br>Olist generates a significant amount of transactional data from sellers, buyers, products, and logistics, which can be easily stored and processed in Azure Data Lake due to its large storage capacity and distributed processing capabilities.<br>
-- **Data Variety:**<br>With different data types like customer demographics, product details, order information, and shipping logistics, Azure allows for flexible data ingestion and analysis of both structured and unstructured data. 
-- **Scalability:**<br>As Olist grows, the Azure platform can seamlessly scale up to accommodate increased data volume and processing needs without requiring significant infrastructure management. 
-- **Advanced Analytics:**<br>With Azure Synapse Analytics, Olist can perform complex data analysis, build predictive models, and generate actionable insights using machine learning techniques. 
-- **Cost-Effectiveness:**<br>Compared to managing on-premise data infrastructure, Azure offers a pay-as-you-go model, allowing Olist to optimize costs based on their data processing needs.
-<br><br>
-<img src="https://raw.githubusercontent.com/YvonneLipLim/Images/main/Azure_Primary_Environment.png" alt="Olist Azure Architecture" style="display: block; margin: 0 auto" /><br>
+**Key reasons**<br/>
+- **Large Data Volumes:**<br/>Olist generates a significant amount of transactional data from sellers, buyers, products, and logistics, which can be easily stored and processed in Azure Data Lake due to its large storage capacity and distributed processing capabilities.<br/>
+- **Data Variety:**<br/>With different data types like customer demographics, product details, order information, and shipping logistics, Azure allows for flexible data ingestion and analysis of both structured and unstructured data. 
+- **Scalability:**<br/>As Olist grows, the Azure platform can seamlessly scale up to accommodate increased data volume and processing needs without requiring significant infrastructure management. 
+- **Advanced Analytics:**<br/>With Azure Synapse Analytics, Olist can perform complex data analysis, build predictive models, and generate actionable insights using machine learning techniques. 
+- **Cost-Effectiveness:**<br/>Compared to managing on-premise data infrastructure, Azure offers a pay-as-you-go model, allowing Olist to optimize costs based on their data processing needs.
+<br/><br/>
+<img src="https://raw.githubusercontent.com/YvonneLipLim/Images/main/Azure_Primary_Environment.png" alt="Olist Azure Architecture" style="display: block; margin: 0 auto" /><br/>
 
-**AWS (Passsive Backup)**<br>Incorporating AWS as a secondary environment provides additional benefits and serves as a strategic backup solution.<br>
+**AWS (Passsive Backup)**<br/>Incorporating AWS as a secondary environment provides additional benefits and serves as a strategic backup solution.<br/>
 
-**Key reasons**<br>
-- **Disaster Recovery and Business Continuity:**<br>By implementing AWS Data pipeline as a secondary environment, Olist create a robust disaster recovery solution. In case of any issues with the promary Azure environment, data processing can be quickly shifted to AWS, ensuring business continuity.
-- **Multi-cloud Strateg:y**<br>Utilizing both Azure and AWS aligns with a multi-cloud strategy, reducing vendor lock-in and providing flexbility in chossing services that best fit specifc needs.
-- **Geographical Redundancy:**<br>AWS's global infrastructure can complement Azure's offering additional geographical redudancy for data storage and processing. This is particulary beneficials for Olist with a global presence or subject to data residency requirements.
-- **Cost Optimization:**<br>AWS Data Pipeline's pay-as-you-go pricing model allows businesses to optimize costs by using it as a secondary or backup solution. This approach ensures that company only pay for the resources they use when needed.
-<br><br>
-<img src="https://raw.githubusercontent.com/YvonneLipLim/Images/main/AWS_Backup_Environment.png" alt="Olist AWS Architecture" style="display: block; margin: 0 auto" /><br>
+**Key reasons**<br/>
+- **Disaster Recovery and Business Continuity:**<br/>By implementing AWS Data pipeline as a secondary environment, Olist create a robust disaster recovery solution. In case of any issues with the promary Azure environment, data processing can be quickly shifted to AWS, ensuring business continuity.
+- **Multi-cloud Strateg:y**<br/>Utilizing both Azure and AWS aligns with a multi-cloud strategy, reducing vendor lock-in and providing flexbility in chossing services that best fit specifc needs.
+- **Geographical Redundancy:**<br/>AWS's global infrastructure can complement Azure's offering additional geographical redudancy for data storage and processing. This is particulary beneficials for Olist with a global presence or subject to data residency requirements.
+- **Cost Optimization:**<br/>AWS Data Pipeline's pay-as-you-go pricing model allows businesses to optimize costs by using it as a secondary or backup solution. This approach ensures that company only pay for the resources they use when needed.
+<br/><br/>
+<img src="https://raw.githubusercontent.com/YvonneLipLim/Images/main/AWS_Backup_Environment.png" alt="Olist AWS Architecture" style="display: block; margin: 0 auto" /><br/>
 
-**Business Rational**<br>
-1. **Risk Mitigation:**<br>By diversifying across two major cloud providers, Olist reduces the risk of service disruptions and ensure continous data processing capabilities.
-2. **Flexbility and Innovation:**<br>Access to both Azure and AWS ecosystems allows organizations to leverage the best features and services from each platform, fostering innovation in data management and analytics.
-3. **Compliance and Data Governance:**<br>The ability to distribute data across multiple cloud environments can help in meeting various regulatory requirements and data governance policies.
-4. **Competitive Advantage:**<br>A dual-cloud strategy for data pipelines positions the company as technologically advanced and adaptable, potentially giving it an edge over competitors who rely on a single cloud provider.
-5. **Future-proofing:**<br>As cloud technologites evolve, having expertise and infrastructure in both Azure and AWS ensures that the organization can quickly adapt to new developments and maintain a cutting-edge data management strategy.<br>
-By implementing this dual-cloud approach for data pipelines, Olist can create a robust, flexible and efficient data management infrastructure that supports their current needs while preparing them for future challenges and opportunities.<br>
-<br>
+**Business Rational**<br/>
+1. **Risk Mitigation:**<br/>By diversifying across two major cloud providers, Olist reduces the risk of service disruptions and ensure continous data processing capabilities.
+2. **Flexbility and Innovation:**<br/>Access to both Azure and AWS ecosystems allows organizations to leverage the best features and services from each platform, fostering innovation in data management and analytics.
+3. **Compliance and Data Governance:**<br/>The ability to distribute data across multiple cloud environments can help in meeting various regulatory requirements and data governance policies.
+4. **Competitive Advantage:**<br/>A dual-cloud strategy for data pipelines positions the company as technologically advanced and adaptable, potentially giving it an edge over competitors who rely on a single cloud provider.
+5. **Future-proofing:**<br/>As cloud technologites evolve, having expertise and infrastructure in both Azure and AWS ensures that the organization can quickly adapt to new developments and maintain a cutting-edge data management strategy.<br/>
+By implementing this dual-cloud approach for data pipelines, Olist can create a robust, flexible and efficient data management infrastructure that supports their current needs while preparing them for future challenges and opportunities.<br/>
+<br/>
 
 </details>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-<br><br>
+<br/><br/>
 
 <!-- DATA SOURCES -->
 <a id="data-sources"></a>
 <details>
   <summary><h3><b>Data Sources</b></h3></summary>
 
-**Datasets**<br>Olist stores have the following datasets:
+**Datasets**<br/>Olist stores have the following datasets:
 1. Customers information
    ```sh
    olist_customers_dataset.csv (5 columns):
@@ -505,42 +505,42 @@ By implementing this dual-cloud approach for data pipelines, Olist can create a 
    product_category_name: name of the product category in Portuguese
    product_category_name_english: name of the product category in English
    ```
-<br>
-The data pipeline starts by ingesting data from the on-premises Olist store which may include data from various sources such as sales transactions, customer information, product details, and order history.<br>
+<br/>
+The data pipeline starts by ingesting data from the on-premises Olist store which may include data from various sources such as sales transactions, customer information, product details, and order history.<br/>
 
-<img src="https://raw.githubusercontent.com/YvonneLipLim/Images/main/OLIST_Data_Schema.png" alt="Olist Data Schema" style="display: block; margin: 0 auto" /><br>
+<img src="https://raw.githubusercontent.com/YvonneLipLim/Images/main/OLIST_Data_Schema.png" alt="Olist Data Schema" style="display: block; margin: 0 auto" /><br/>
 
-**Olist ERD Diagram**<br>An entity-relationship diagram (ERD) of the entities within the OLIST system or applications and the relationships between them.
+**Olist ERD Diagram**<br/>An entity-relationship diagram (ERD) of the entities within the OLIST system or applications and the relationships between them.
 
-<img src="https://raw.githubusercontent.com/YvonneLipLim/Images/main/OLIST_Entity_Relationship.png" alt="Olist ERD Diagram" style="display: block; margin: 0 auto" /><br><br>
+<img src="https://raw.githubusercontent.com/YvonneLipLim/Images/main/OLIST_Entity_Relationship.png" alt="Olist ERD Diagram" style="display: block; margin: 0 auto" /><br/><br/>
 
-**Database Setup and Creation**<br>Reviewing datasets and setting up database tables are critical steps in ensuring data integrity, usability, and efficiency. Here's why they are important:
-1. **Data Accuracy and Quality:**<br>
+**Database Setup and Creation**<br/>Reviewing datasets and setting up database tables are critical steps in ensuring data integrity, usability, and efficiency. Here's why they are important:
+1. **Data Accuracy and Quality:**<br/>
    - It helps identify and address missing, duplicate, or inconsistent data, ensuring the information is reliable and accurate.
    - Proper table setup enforces data validation rules, reducing errors during data entry or processing.
-2. **Optimal Data Organization:**<br>
+2. **Optimal Data Organization:**<br/>
    - Structuring database tables using normalization minimizes redundancy and organizes data logically, making it easier to retrieve and manage.
    - A well-designed schema improves data readability and supports efficient relationships between datasets.
-3. **Performance Optimization:**<br>
+3. **Performance Optimization:**<br/>
    - It allows for identifying and removing unnecessary data, improving query performance.
    - Proper indexing and table partitioning during setup enhance the speed of data retrieval and processing.
-4. **Compliance and Security:**<br>
+4. **Compliance and Security:**<br/>
    - Ensuring sensitive data is correctly stored and protected during the setup process helps meet regulatory and privacy standards (e.g., GDPR, HIPAA).
    - Ensures no unauthorized or non-compliant information is stored.
-5. **Scalability and Future-Proofing:**<br>
+5. **Scalability and Future-Proofing:**<br/>
    - A well-reviewed and structured database is easier to scale as data volume increases.
    - Future enhancements or integration with other systems become simpler when the foundational setup is robust.
-6. **Supporting Analytics and Reporting:**<br>
+6. **Supporting Analytics and Reporting:**<br/>
    - Clean, structured datasets and properly designed tables are essential for accurate reporting and analytics.
    - Ensures the inclusion of necessary fields and metrics for meaningful insights.
-7. **Collaboration and Cross-Team Understanding:**<br>
-   - A clear and logical database setup with well-documented datasets promotes better collaboration among teams (e.g., developers, analysts, and end-users).<br><br>
+7. **Collaboration and Cross-Team Understanding:**<br/>
+   - A clear and logical database setup with well-documented datasets promotes better collaboration among teams (e.g., developers, analysts, and end-users).<br/><br/>
 
-**Olist Tables Creation:** [SQL script](https://github.com/YvonneLipLim/JDE05_Final_Project/blob/main/Database_Setup/PostgreSQL/OLIST_Tables_Creation.sql)<br>
+**Olist Tables Creation:** [SQL script](https://github.com/YvonneLipLim/JDE05_Final_Project/blob/main/Database_Setup/PostgreSQL/OLIST_Tables_Creation.sql)<br/>
   
 </details>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-<br><br>
+<br/><br/>
 
 <!-- DATA INGESTION -->
 <a id="methodology"></a>
@@ -556,9 +556,9 @@ There are 4 methods of data ingestion:
 2. Extracting datasets using KAggle API with a Python script and upload to Azure storage.
 3. Write a Python Azure Function script to automate the data ingestion on a scheduled or manually basis.
 4. Extracting datasets from HTTP.
-<br>
+<br/>
 
-**Method 1**<br>Extracting Olist Datasets with Kaggle CLI
+**Method 1**<br/>Extracting Olist Datasets with Kaggle CLI
 1. Download the Olist datasets by running this command on a new Terminal:
     ```sh
     kaggle datasets download -d "olistbr/brazilian-ecommerce"
@@ -571,7 +571,7 @@ There are 4 methods of data ingestion:
     ```sh
     ls -l
     ```
-<img src="https://raw.githubusercontent.com/YvonneLipLim/Images/main/Kaggle_Datasets_Download.png" alt="Download Kaggle Datasets" style="display: block; margin: 0 auto" /><br><br>
+<img src="https://raw.githubusercontent.com/YvonneLipLim/Images/main/Kaggle_Datasets_Download.png" alt="Download Kaggle Datasets" style="display: block; margin: 0 auto" /><br/><br/>
 
 1. To search for datasets, run the following command for a complete list:
     ```sh
@@ -582,11 +582,11 @@ There are 4 methods of data ingestion:
     ```sh
     kaggle datasets download -d <owner>/<dataset-name> -f <file-name>
     ```
-<br>
+<br/>
 
-**Extracting Olist Datasets with a Python script**<br>The [extract_datasets_local.py](https://github.com/YvonneLipLim/JDE05_Final_Project/tree/main/Source_Codes/Local/extract_datasets_local.py) file will download the datasets into the local directory which can be uploaded to the Azure storage account using Azure CLI method.<br><br>
+**Extracting Olist Datasets with a Python script**<br/>The [extract_datasets_local.py](https://github.com/YvonneLipLim/JDE05_Final_Project/tree/main/Source_Codes/Local/extract_datasets_local.py) file will download the datasets into the local directory which can be uploaded to the Azure storage account using Azure CLI method.<br/><br/>
 
-How to Upload Olist Datasets with Azure CLI<br>
+How to Upload Olist Datasets with Azure CLI<br/>
 1. Run the following command in a new Terminal:
     ```sh
     az login
@@ -599,17 +599,17 @@ How to Upload Olist Datasets with Azure CLI<br>
     ```
 5. Verify the upload by logging in to the Azure portal to confirm that all your CSV files have been uploaded to the specified container.
 
-<img src="https://raw.githubusercontent.com/YvonneLipLim/Images/main/Upload_Datasets_Azure.png" alt="Upload Datasets with Azure CLI" style="display: block; margin: 0 auto" /><br><br>   
+<img src="https://raw.githubusercontent.com/YvonneLipLim/Images/main/Upload_Datasets_Azure.png" alt="Upload Datasets with Azure CLI" style="display: block; margin: 0 auto" /><br/><br/>   
 
-**Method 2**<br>Kaggle API<br>
+**Method 2**<br/>Kaggle API<br/>
 The [extract_datasets_v2.0.py](https://github.com/YvonneLipLim/JDE05_Final_Project/tree/main/Source_Codes/Kaggle_API/extract_datasets_v2.0.py) file authenticates with Kaggle API to download datasets directly from Kaggle and upload into Azure storage container using Blob Storage credentials. It automates the data extraction process, ensuring:
 - Consistent data sourcing from the original Kaggle repository
 - Proper file organization in both local and cloud storage
 - Reliable data transfer to Azure for the ETL pipeline
 - Error handling and progress tracking during the process
-<br>
+<br/>
 
-**Method 3**<br>Azure Function App
+**Method 3**<br/>Azure Function App
 - Rewrite the Python Azure Function script by editing the [function_app.py](https://github.com/YvonneLipLim/JDE05_Final_Project/tree/main/Source_Codes/Azure_Function/function_app.py) file which can be found in your local directory. The script includes:
   - A scheduled function `scheduled_kaggle_data_extractor` that runs daily at midnight.
   - A manually triggered function `manual_kaggle_data_extractor` that can be invoked via an HTTP request.
@@ -629,16 +629,16 @@ The [extract_datasets_v2.0.py](https://github.com/YvonneLipLim/JDE05_Final_Proje
   ```sh
   curl http://localhost:7071/api/manually-trigger-kaggle-extractor
   ```
-- Verify the upload by checking if the files exists in the specified directory of the storage container in Azure.<br><br>
+- Verify the upload by checking if the files exists in the specified directory of the storage container in Azure.<br/><br/>
 
-**Example of a Manual Trigger Upload**<br>
-<img src="https://raw.githubusercontent.com/YvonneLipLim/Images/main/Storage_Container_Files.png" alt="Storage Container Files Manual Trigger" style="display: block; margin: 0 auto" /><br> 
+**Example of a Manual Trigger Upload**<br/>
+<img src="https://raw.githubusercontent.com/YvonneLipLim/Images/main/Storage_Container_Files.png" alt="Storage Container Files Manual Trigger" style="display: block; margin: 0 auto" /><br/> 
 
-**Example of a Scheduled Trigger Upload**<br>
-<img src="https://raw.githubusercontent.com/YvonneLipLim/Images/main/Storage_Container_Files_Automate.png" alt="Storage Container Files Automate" style="display: block; margin: 0 auto" /><br>
+**Example of a Scheduled Trigger Upload**<br/>
+<img src="https://raw.githubusercontent.com/YvonneLipLim/Images/main/Storage_Container_Files_Automate.png" alt="Storage Container Files Automate" style="display: block; margin: 0 auto" /><br/>
 
-**Method 4**<br>Azure Data Factory<br>
-The pipeline would fetch the data from the HTTP endpoint and store it in your Azure Blob storage, maintaining the raw data for further processing.<br>
+**Method 4**<br/>Azure Data Factory<br/>
+The pipeline would fetch the data from the HTTP endpoint and store it in your Azure Blob storage, maintaining the raw data for further processing.<br/>
 The process involves several key steps:
 1. Create a **HTTP Linked Service** to specific the URL of the HTTP endpoint
 2. Create a **HTTP Source Dataset** using the HTTP Linked Service to specific the file format (JSON, CSV, etc)
@@ -646,8 +646,9 @@ The process involves several key steps:
 4. Create a **Pipeline** activity
 5. Create a **Copy Data** activity and configure the **Source** and **Sink**  
 6. Repeat step 5 by clicking the _clone_ to clone the activity, from there make changes to the **Source** and **Sink**
-<br>
-**Example of copying Olist data in Azure Data Factory**<br>
+<br/>
+
+**Example of copying Olist data in Azure Data Factory**<br/>
   ```sh
   Source (HTTP):
   - Base URL: https://api.example.com/olist
@@ -660,12 +661,11 @@ The process involves several key steps:
   - File path: raw-data/customers.json
   - Format: CSV
   ```
-<br>
-<img src="https://raw.githubusercontent.com/YvonneLipLim/Images/main/Data_Ingestion.png" alt="Data Ingestion" style="display: block; margin: 0 auto" /><br><br> 
+
+<br/>
+<img src="https://raw.githubusercontent.com/YvonneLipLim/Images/main/Data_Ingestion.png" alt="Data Ingestion" style="display: block; margin: 0 auto" /><br/><br/> 
 
 #### **Backup Ingestion (AWS)**
-
-**[Fred to update CLI method]**
 
 We call the python script to ingest the cleaned dataset from Azure to AWS S3 using AWS Glue Notebook Interface. 
 ![image-2.png](images/1-1.png)
@@ -674,7 +674,7 @@ Successfully loaded the dataset to S3.
 ![image.png](images/2-1.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-<br><br>
+<br/><br/>
 
 <!-- DATA TRANSFORMATION -->
 <a id="data-transformation"></a>
@@ -683,12 +683,12 @@ Successfully loaded the dataset to S3.
 We applied our data transformation using Azure Databricks because it provides a powerful, scalable platform based on Apache Spark, allowing us to efficiently process large datasets with complex transformations, including data cleaning, aggregation, and manipulation, while seamlessly integrating with other Azure services, all within a collaborative environment with flexible coding options like Python, SQL, and Scala; making it ideal for large-scale data engineering projects with advanced analytics needs.
 
 Key benefits of using Azure Databricks for data transformation:
-1. **Scalability**:<br>Easily scale compute clusters to handle large data volumes and complex transformations without compromising performance. 
-2. **Apache Spark Power**:<br>Leverage the distributed processing capabilities of Spark for fast and efficient data manipulation. 
-3. **Language Flexibility**:<br>Use various languages like Python, SQL, and Scala to write data transformation logic based on your team's expertise. 
-4. **Delta Lake Integration_**:<br>Efficiently manage data pipelines with Delta Lake's ACID (Atomicity, Consistency, Isolation, Durability) compliant data lake capabilities. 
-5. **Collaborative Environment**:<br>Work collaboratively with notebooks, allowing data scientists and engineers to share insights and code easily. 
-6. **Azure Ecosystem Integration**:<br>Seamlessly connect with other Azure services like Azure Storage, Azure Data Factory, and Azure Machine Learning for a unified data pipeline. 
+1. **Scalability**:<br/>Easily scale compute clusters to handle large data volumes and complex transformations without compromising performance. 
+2. **Apache Spark Power**:<br/>Leverage the distributed processing capabilities of Spark for fast and efficient data manipulation. 
+3. **Language Flexibility**:<br/>Use various languages like Python, SQL, and Scala to write data transformation logic based on your team's expertise. 
+4. **Delta Lake Integration_**:<br/>Efficiently manage data pipelines with Delta Lake's ACID (Atomicity, Consistency, Isolation, Durability) compliant data lake capabilities. 
+5. **Collaborative Environment**:<br/>Work collaboratively with notebooks, allowing data scientists and engineers to share insights and code easily. 
+6. **Azure Ecosystem Integration**:<br/>Seamlessly connect with other Azure services like Azure Storage, Azure Data Factory, and Azure Machine Learning for a unified data pipeline. 
 
 This approach creates a robust, scalable data transformation process that prepares data for analytics while maintaining data quality and performance. 
 
@@ -697,19 +697,19 @@ We performed the following data transformation for our 9 datasets that helped us
 - **Performance**: Parallel processing, optimized larger datasets, efficient resource utilization
 - **Maintainability**: Easily debug and monitor outputs, applied useable transformation logic
 
-**Olist Data Cleaning scripts:**<br> 
-[01. customers](https://github.com/YvonneLipLim/JDE05_Final_Project/tree/main/Source_Codes/Data_Cleaning/01.OLIST_Data_Cleaning_Customers_(revised)_20250113.ipynb)<br>
-[02. geolocation](https://github.com/YvonneLipLim/JDE05_Final_Project/tree/main/Source_Codes/Data_Cleaning/02.OLIST_Data_Cleaning_Geolocation_(revised)_20250113.ipynb)<br>
-[03. order_items](https://github.com/YvonneLipLim/JDE05_Final_Project/tree/main/Source_Codes/Data_Cleaning/03.OLIST_Data_Cleaning_Order_Items_(revised)_20250113.ipynb)<br>
-[04. order_payments](https://github.com/YvonneLipLim/JDE05_Final_Project/tree/main/Source_Codes/Data_Cleaning/04.OLIST_Data_Cleaning_Order_Payments_(revised)_20250113.ipynb)<br>
-[05. order_reviews](https://github.com/YvonneLipLim/JDE05_Final_Project/tree/main/Source_Codes/Data_Cleaning/05.OLIST_Data_Cleaning_Order_Reviews_(revised)_20250113.ipynb)<br>
-[06. orders](https://github.com/YvonneLipLim/JDE05_Final_Project/tree/main/Source_Codes/Data_Cleaning/06.OLIST_Data_Cleaning_Orders_(revised)_20250113.ipynb)<br>
-[07. products and product_category](https://github.com/YvonneLipLim/JDE05_Final_Project/tree/main/Source_Codes/Data_Cleaning/07.OLIST_Data_Cleaning_Products_n_Product_Category_(revised)_20250113.ipynb)<br>
-[08. sellers](https://github.com/YvonneLipLim/JDE05_Final_Project/tree/main/Source_Codes/Data_Cleaning/08.OLIST_Data_Cleaning_Sellers_(revised)_20250113.ipynb)<br>
+**Olist Data Cleaning scripts:**<br/> 
+[01. customers](https://github.com/YvonneLipLim/JDE05_Final_Project/tree/main/Source_Codes/Data_Cleaning/01.OLIST_Data_Cleaning_Customers_(revised)_20250113.ipynb)<br/>
+[02. geolocation](https://github.com/YvonneLipLim/JDE05_Final_Project/tree/main/Source_Codes/Data_Cleaning/02.OLIST_Data_Cleaning_Geolocation_(revised)_20250113.ipynb)<br/>
+[03. order_items](https://github.com/YvonneLipLim/JDE05_Final_Project/tree/main/Source_Codes/Data_Cleaning/03.OLIST_Data_Cleaning_Order_Items_(revised)_20250113.ipynb)<br/>
+[04. order_payments](https://github.com/YvonneLipLim/JDE05_Final_Project/tree/main/Source_Codes/Data_Cleaning/04.OLIST_Data_Cleaning_Order_Payments_(revised)_20250113.ipynb)<br/>
+[05. order_reviews](https://github.com/YvonneLipLim/JDE05_Final_Project/tree/main/Source_Codes/Data_Cleaning/05.OLIST_Data_Cleaning_Order_Reviews_(revised)_20250113.ipynb)<br/>
+[06. orders](https://github.com/YvonneLipLim/JDE05_Final_Project/tree/main/Source_Codes/Data_Cleaning/06.OLIST_Data_Cleaning_Orders_(revised)_20250113.ipynb)<br/>
+[07. products and product_category](https://github.com/YvonneLipLim/JDE05_Final_Project/tree/main/Source_Codes/Data_Cleaning/07.OLIST_Data_Cleaning_Products_n_Product_Category_(revised)_20250113.ipynb)<br/>
+[08. sellers](https://github.com/YvonneLipLim/JDE05_Final_Project/tree/main/Source_Codes/Data_Cleaning/08.OLIST_Data_Cleaning_Sellers_(revised)_20250113.ipynb)<br/>
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-<br><br>
+<br/><br/>
 
 <!-- DATA ANALYTICS -->
 <a id="data-analytics"></a>
@@ -719,13 +719,13 @@ We performed the following data transformation for our 9 datasets that helped us
 We are using Azure Synapse as a data warehouse for both a lake database and SQL database because it provides a unified platform to seamlessly manage and query large volumes of data from both structured (SQL) and unstructured (lake) sources, essentially acting as a "data lakehouse" where we can access and analyze data from either storage type within a single environment, eliminating the need to move data between separate systems; this translates to improved data accessibility, faster analysis times, and cost efficiency compared to managing separate data warehouse and lake solutions. 
 
 **Key benefits of using Synapse for both lake and SQL databases**:
-1. **Data Lakehouse Capability**:<br>Synapse allows us to query data directly from our data lake using SQL alongside traditional structured data in a SQL database, providing flexibility for diverse data analysis needs. 
-2. **Scalability**:<br>It allow us to scale the compute resources based on workload demands, whether it's a large-scale data lake query or a targeted SQL query on structured data. 
-3. **Cost-Effectiveness**:<br>By using a single platform, we can avoid the overhead of managing separate data storage and processing services, potentially reducing costs. 
-4. **Integration with other Azure services**:<br>Synapse seamlessly integrates with other Azure services like Power BI for visualization and Azure Machine Learning for advanced analytics.
-5. **External Tables in SQL Database**;<br>It allow us to query data in external sources like Storage container without physically coping the data into the SQL pool to reduced storage costs without duplicating large datasets. Gain faster access to data and the ability to work with data in-place.
+1. **Data Lakehouse Capability**:<br/>Synapse allows us to query data directly from our data lake using SQL alongside traditional structured data in a SQL database, providing flexibility for diverse data analysis needs. 
+2. **Scalability**:<br/>It allow us to scale the compute resources based on workload demands, whether it's a large-scale data lake query or a targeted SQL query on structured data. 
+3. **Cost-Effectiveness**:<br/>By using a single platform, we can avoid the overhead of managing separate data storage and processing services, potentially reducing costs. 
+4. **Integration with other Azure services**:<br/>Synapse seamlessly integrates with other Azure services like Power BI for visualization and Azure Machine Learning for advanced analytics.
+5. **External Tables in SQL Database**;<br/>It allow us to query data in external sources like Storage container without physically coping the data into the SQL pool to reduced storage costs without duplicating large datasets. Gain faster access to data and the ability to work with data in-place.
 
-**Create a Lake Database**<br>
+**Create a Lake Database**<br/>
 The process of creating a Lake Database involve several steps:
 1. Select `Data`
 2. Select `+`
@@ -747,9 +747,9 @@ The process of creating a Lake Database involve several steps:
 10. Query the table by selection "SELECT TOP 100 rows" from the Actions menu which will open a new SQL script page to run the query and view the results
 ![Query Result Table View](https://raw.githubusercontent.com/YvonneLipLim/Images/main/Synapse_TABLE_VIEW.png)
 ![Query Result Chart View](https://raw.githubusercontent.com/YvonneLipLim/Images/main/Synapse_CHART_VIEW.png)
-<br>
+<br/>
 
-**Create a SQL Database**<br>
+**Create a SQL Database**<br/>
 The guide to create a SQL Database as follows:
 1. Select `Data`
 2. Select `+`
@@ -762,14 +762,14 @@ The guide to create a SQL Database as follows:
 9. Next, open a new SQL script to create external tables. Refer to the [OistSQLDB_External_Tables_Creation_SQL_script.sql](https://github.com/YvonneLipLim/JDE05_Final_Project/tree/main/Database_Setup/Synapse/SQL_Database/OlistSQLDB_External_Tables_Creation_SQL_script.sql) for more information
 10. Once the Create External Tables SQL script is fully execute, all tables will be availabe on the `External tables` folder
 ![OlistSQLDB Views](https://raw.githubusercontent.com/YvonneLipLim/Images/main/SQL_Database_Tables.png)
-<br>
+<br/>
 
-**Entity Relationship Diagram (ERD)**<br>
+**Entity Relationship Diagram (ERD)**<br/>
 Obtaining an Entity Relationship Diagram (ERD) from Azure Synapse is highly convenient and beneficial for several reasons:
-1. **Visualization of Data Structure**<br>
+1. **Visualization of Data Structure**<br/>
 ERDs provide a clear, visual representation of the database structure, making it easier to understand complex data relationships at a glance. This visual approach is particularly useful in Synapse, where you might be dealing with large-scale data warehouses and numerous interconnected tables.
 
-2. **Improved Data Modeling**<br>
+2. **Improved Data Modeling**<br/>
 ERDs help in optimizing data models by:
    - Highlighting primary and foreign key relationships between tables
    - Identifying and eliminating data redundancy and inconsistencies
@@ -777,12 +777,12 @@ ERDs help in optimizing data models by:
 
 This is crucial in Synapse environments where efficient data modeling directly impacts query performance and overall system efficiency.
 
-1. **Enhanced Query Optimization**<br>
+1. **Enhanced Query Optimization**<br/>
 By clearly showing table relationships, ERDs assist in:
    - Optimizing queries and transactions
    - Understanding data flow, which is vital for performance tuning in Synapse's data warehouse environment
 
-1. **Facilitated Collaboration**<br>
+1. **Facilitated Collaboration**<br/>
 ERDs serve as a common language between different stakeholders:
    - Data engineers can use them to design and maintain the database structure
    - Business analysts can better understand data relationships for reporting
@@ -790,12 +790,12 @@ ERDs serve as a common language between different stakeholders:
 
 This collaborative aspect is particularly valuable in Synapse, which integrates various data processing capabilities and supports multiple user roles.
 
-1. **Documentation and Maintenance**<br>
+1. **Documentation and Maintenance**<br/>
 ERDs act as living documentation of the database schema:
    - They help in tracking the evolution of the database structure over time4
    - Assist in onboarding new team members by providing a clear overview of the data architecture
 
-<img src="https://raw.githubusercontent.com/YvonneLipLim/Images/main/Azure_Synapse_ERD_Diagram.png" alt="Synapse ERD Diagram" style="display: block; margin: 0 auto" /><br><br> 
+<img src="https://raw.githubusercontent.com/YvonneLipLim/Images/main/Azure_Synapse_ERD_Diagram.png" alt="Synapse ERD Diagram" style="display: block; margin: 0 auto" /><br/><br/> 
 
 ### **Data Dictionary**
 
@@ -934,22 +934,22 @@ Similar to PowerBI
 ![image-10.png](images/8.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-<br><br>
+<br/><br/>
 
 <!-- PROOF OF CONCEPT: OPTIMIZATION AND UNIT/FUNCTIONAL TESTING -->
 <a id="proof-of-concept"></a>
 ### <span style="color:darkblue; font-weight:bold;">Proof of Concept: Optimization and Unit/Functional Testing</span>
 
-**Optimization**<br>
+**Optimization**<br/>
 The documented improvements provide clear evidence that implementing Parquet as the standard file format will enhance our data infrastructure's efficiency.
 
 Parquet's columnar storage format and efficient compression algorithms enable these improvements while maintaining data integrity. This optimization is particularly valuable for large-scale data processing, as reduced file sizes lead to faster query execution, lower storage costs, and more efficient data transfer across networks.
 
 The data shows consistent size reductions across all tables, with improvements ranging from 15.29% to 72.27%. The "geolocation" table demonstrates this most dramatically, shrinking from 58.44MB to 11.51MB after transformation.
 
-<img src="https://raw.githubusercontent.com/YvonneLipLim/Images/main/Large_Datasets_Size_Transformation.png" alt="Large Datasets Size Transformation" style="display: block; margin: 0 auto" /><br>
+<img src="https://raw.githubusercontent.com/YvonneLipLim/Images/main/Large_Datasets_Size_Transformation.png" alt="Large Datasets Size Transformation" style="display: block; margin: 0 auto" /><br/>
 
-**Data Pipeline Testing & Quality Assurance**<br>
+**Data Pipeline Testing & Quality Assurance**<br/>
 Our testing strategy encompasses comprehensive validation of data ingestion, transformation, and cleaning processes to ensure data reliability and system robustness.
 
 1. **Test Categories and Coverage**
@@ -1036,20 +1036,20 @@ This enhanced testing framework ensures:
 - Secure data handling
 - Efficient issue resolution
 - Continuous pipeline improvement
-<br>
+<br/>
 
-**Olist Unit/Functional Test scripts:**<br> 
-[01. customers](https://github.com/YvonneLipLim/JDE05_Final_Project/tree/main/Source_Codes/Test_Data_Pipelines/01.test_data_pipeline_customers_ingestion_v3.0.ipynb)<br>
-[02. geolocation](https://github.com/YvonneLipLim/JDE05_Final_Project/tree/main/Source_Codes/Test_Data_Pipelines/02.test_data_pipeline_geolocation_ingestion_v2.0.ipynb)<br>
-[03. order_items](https://github.com/YvonneLipLim/JDE05_Final_Project/tree/main/Source_Codes/Test_Data_Pipelines/03.test_data_pipeline_order_items_ingestion_v2.0.ipynb)<br>
-[04. order_payments](https://github.com/YvonneLipLim/JDE05_Final_Project/tree/main/Source_Codes/Test_Data_Pipelines/04.test_data_pipeline_order_payments_ingestion_v2.0.ipynb)<br>
-[05. order_reviews](https://github.com/YvonneLipLim/JDE05_Final_Project/tree/main/Source_Codes/Test_Data_Pipelines/05.test_data_pipeline_order_reviews_ingestion_v2.0.ipynb)<br>
-[06. orders](https://github.com/YvonneLipLim/JDE05_Final_Project/tree/main/Source_Codes/Test_Data_Pipelines/06.test_data_pipeline_orders_ingestion_v2.0.ipynb)<br>
-[07. products and product_category](https://github.com/YvonneLipLim/JDE05_Final_Project/tree/main/Source_Codes/Test_Data_Pipelines/07.test_data_pipeline_products_n_product_category_ingestion_v2.0.ipynb)<br>
-[08. sellers](https://github.com/YvonneLipLim/JDE05_Final_Project/tree/main/Source_Codes/Test_Data_Pipelines/08.test_data_pipeline_sellers_ingestion_v2.0.ipynb)<br>
+**Olist Unit/Functional Test scripts:**<br/> 
+[01. customers](https://github.com/YvonneLipLim/JDE05_Final_Project/tree/main/Source_Codes/Test_Data_Pipelines/01.test_data_pipeline_customers_ingestion_v3.0.ipynb)<br/>
+[02. geolocation](https://github.com/YvonneLipLim/JDE05_Final_Project/tree/main/Source_Codes/Test_Data_Pipelines/02.test_data_pipeline_geolocation_ingestion_v2.0.ipynb)<br/>
+[03. order_items](https://github.com/YvonneLipLim/JDE05_Final_Project/tree/main/Source_Codes/Test_Data_Pipelines/03.test_data_pipeline_order_items_ingestion_v2.0.ipynb)<br/>
+[04. order_payments](https://github.com/YvonneLipLim/JDE05_Final_Project/tree/main/Source_Codes/Test_Data_Pipelines/04.test_data_pipeline_order_payments_ingestion_v2.0.ipynb)<br/>
+[05. order_reviews](https://github.com/YvonneLipLim/JDE05_Final_Project/tree/main/Source_Codes/Test_Data_Pipelines/05.test_data_pipeline_order_reviews_ingestion_v2.0.ipynb)<br/>
+[06. orders](https://github.com/YvonneLipLim/JDE05_Final_Project/tree/main/Source_Codes/Test_Data_Pipelines/06.test_data_pipeline_orders_ingestion_v2.0.ipynb)<br/>
+[07. products and product_category](https://github.com/YvonneLipLim/JDE05_Final_Project/tree/main/Source_Codes/Test_Data_Pipelines/07.test_data_pipeline_products_n_product_category_ingestion_v2.0.ipynb)<br/>
+[08. sellers](https://github.com/YvonneLipLim/JDE05_Final_Project/tree/main/Source_Codes/Test_Data_Pipelines/08.test_data_pipeline_sellers_ingestion_v2.0.ipynb)<br/>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-<br><br>
+<br/><br/>
 
 <!-- DATA SECURITY AND GOVERNANCE -->
 <a id="data-security-and-governance"></a>
@@ -1103,14 +1103,13 @@ The implementation of Azure Key Vault as our secrets management solution has sig
 - Detailed access logging
 - Integration with Azure AD for identity management
 - Secure storage of credentials across our data pipeline
-<br>
+<br/>
 
-<img src="https://raw.githubusercontent.com/YvonneLipLim/Images/main/Olist_Key.png" alt="Download Kaggle Datasets" style="display: block; margin: 0 auto" /><br>
-<br>
+<img src="https://raw.githubusercontent.com/YvonneLipLim/Images/main/Olist_Key.png" alt="Download Kaggle Datasets" style="display: block; margin: 0 auto" /><br/>
+<br/>
 
 #### **Passive Backup(AWS)**
 
-**[Fred to update]**
 Data security and governance in AWS are critical components of a robust cloud strategy. They involve implementing policies, procedures, and controls to protect data assets while ensuring compliance with regulatory requirements.
 
 1. Data Security
@@ -1131,7 +1130,7 @@ Data security and governance in AWS are critical components of a robust cloud st
 
 </details>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-<br><br>
+<br/><br/>
 
 
 <!-- ANALYSIS -->
@@ -1248,7 +1247,7 @@ When analyzing the 1-star reviews, several recurring complaints emerge that high
 The main themes in 1-star reviews center around delivery inaccuracies and product quality issues. While the platform may mark products as delivered, customers often claim they didn’t receive them, or the products were damaged or defective upon arrival. Some sellers consistently receive lower-than-average ratings, suggesting that these issues may be linked to certain sellers or their handling of logistics and product quality. Interestingly, the payment methods (credit card and boleto) do not seem to have a significant impact on customer satisfaction or review scores. The main issues are primarily related to product and delivery performance, not the payment process.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-<br><br>
+<br/><br/>
 
 <!-- BUSINESS RECOMMENDATIONS -->
 <a id="recommendations"></a>
@@ -1340,7 +1339,7 @@ Expected Impact: Offering discounts or incentives for credit card payments can b
 
 </details>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-<br><br>
+<br/><br/>
 
 <!-- CHALLENGES -->
 <a id="challenges"></a>
@@ -1379,7 +1378,7 @@ While working on this project, several challenges were met and solutions to over
 
 </details>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-<br><br>
+<br/><br/>
 
 
 <!-- CONCLUSION -->
@@ -1400,4 +1399,4 @@ These enhancements will be rolled out over 12 months, ensuring minimal disruptio
 
 </details>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-<br><br>
+<br/><br/>
