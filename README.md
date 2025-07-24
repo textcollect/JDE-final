@@ -5,53 +5,52 @@
 
 <a id="readme-top"></a>
 <!-- TABLE OF CONTENTS -->
-<details>
-  <summary><h3><b>Table of Contents</b></h3></summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#project-objective">Project Objectives</a></li>
-        <li><a href="#project-deliverables">Project Deliverables</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#data-architecture">Data Architecture</a>
-    </li>
-    <li>
-      <a href="#data-sources">Data Sources</a>
-    </li>
-    <li>
-      <a href="#methodology">Methodology</a>
-      <ul>
-        <li><a href="#data-ingestion">Data Ingestion</a></li>
-        <li><a href="#data-transformation">Data Transformation</a></li>    
-        <li><a href="#data-analytics">Data Analytics</a></li>
-        <li><a href="#proof-of-concept">Proof of Concept: Optimization and Unit/Functional Testing</a></li>
-        <li><a href="#data-security-and-governance">Data Security and Governance</a></li>
-      </ul>
-    </li>
-		<li>
-      <a href="#analysis">Analysis in Power BI</a>
-      <ul>
-        <li><a href="#recommendations">Business Recommendations</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#challenges">Challenges and Solutions</a>
-    </li>
-    <li>
-      <a href="#conclusion">Conclusion</a>
-    </li>
-  </ol>
-</details>
+
+<summary><h3><b>Table of Contents</b></h3></summary>
+<ol>
+  <li>
+    <a href="#about-the-project">About The Project</a>
+    <ul>
+      <li><a href="#project-objective">Project Objectives</a></li>
+      <li><a href="#project-deliverables">Project Deliverables</a></li>
+    </ul>
+  </li>
+  <li>
+    <a href="#getting-started">Getting Started</a>
+    <ul>
+      <li><a href="#prerequisites">Prerequisites</a></li>
+      <li><a href="#installation">Installation</a></li>
+    </ul>
+  </li>
+  <li>
+    <a href="#data-architecture">Data Architecture</a>
+  </li>
+  <li>
+    <a href="#data-sources">Data Sources</a>
+  </li>
+  <li>
+    <a href="#methodology">Methodology</a>
+    <ul>
+      <li><a href="#data-ingestion">Data Ingestion</a></li>
+      <li><a href="#data-transformation">Data Transformation</a></li>    
+      <li><a href="#data-analytics">Data Analytics</a></li>
+      <li><a href="#proof-of-concept">Proof of Concept: Optimization and Unit/Functional Testing</a></li>
+      <li><a href="#data-security-and-governance">Data Security and Governance</a></li>
+    </ul>
+  </li>
+  <li>
+    <a href="#analysis">Analysis in Power BI</a>
+    <ul>
+      <li><a href="#recommendations">Business Recommendations</a></li>
+    </ul>
+  </li>
+  <li>
+    <a href="#challenges">Challenges and Solutions</a>
+  </li>
+  <li>
+    <a href="#conclusion">Conclusion</a>
+  </li>
+</ol>
 <br/><br/>
 
 <!-- ABOUT THE PROJECT -->
