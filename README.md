@@ -224,7 +224,6 @@ The question isn't just "What does the data tell us?" but rather "How can we use
 #### **Passive Backup (AWS)**<br/>
 **AWS Managed Services**
 
-**[Fred to update on prerequsite for AWS]**
 
 **Prerequisites**
 - Before setting up this data analytics pipeline, ensure you have the following:
@@ -359,7 +358,6 @@ How to install Azure Commmand-Line Interface (CLI)?
 #### **Passive Backup (AWS)**<br/>
 **AWS Managed Services**<br/>
 
-**[Fred to update]**
 
 </details>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
